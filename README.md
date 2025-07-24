@@ -42,6 +42,6 @@ All files are saved in the screenshots/ folder.
  3D model of the tibia   
 ---
  # Extra Info
-  This was a learning project for practicing bone segmentation and 3D modeling   
+  This is a project for bone segmentation and 3D modeling   
  Software used:  
   Materialise Mimics v10.01
